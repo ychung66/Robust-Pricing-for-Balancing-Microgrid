@@ -9,5 +9,6 @@ To replicate the simulation result, run microgrid.m The program will load precom
 
 To run the full simulation, first run main.m then run microgrid.m
 
-To model microgrid operation without uncertainty, set line 10 in microgrid.m as 0
+To model microgrid operation without uncertainty, set line 10 in microgrid.m as 0.
+
 To model microgrid operation with uncertainty from load, generation and market price, set line 10 in microgrid.m as 1.
